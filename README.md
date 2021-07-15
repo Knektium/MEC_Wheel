@@ -11,30 +11,33 @@ Parts
 
 ### 3D Printable
 
-1x Enclosure
-1x MotorPlate
-1x Back
-1x Middle
-1x Carrier
-3x PlanetGearA
-3x PlanetGearB
-1x RingGearA
-1x Wheel
-1x SunGearA
-1x SunGearB
+| Qty | Part        |
+| --- | ----------- |
+|   1 | Enclosure   |
+|   1 | MotorPlate  |
+|   1 | Back        |
+|   1 | Middle      |
+|   1 | Carrier     |
+|   3 | PlanetGearA |
+|   3 | PlanetGearB |
+|   1 | RingGearA   |
+|   1 | Wheel       |
+|   1 | SunGearA    |
+|   1 | SunGearB    |
 
 ### Other Parts
 
-4x M3x9mm
-8x M3x4mm
-2x M3x6mm
-2x M3 Hex-standoff 30mm (Ettinger 05.03.301)
-1x M3 Hex-standoff 11mm (Ettinger 05.03.111)
-7x M3 Circular Spacer 4mm (Harwin R30-5000402)
-
-3x Neodym magnet, 2x4mm (Meder NdFeB N35)
-1x DC motor
-1x ECU (PCB)
+| Qty | Part                                        |
+| --- | ------------------------------------------- |
+|   4 | M3x9mm                                      |
+|   8 | M3x4mm                                      |
+|   2 | M3x6mm                                      |
+|   2 | M3 Hex-standoff 30mm (Ettinger 05.03.301)   |
+|   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)   |
+|   7 | M3 Circular Spacer 4mm (Harwin R30-5000402) |
+|   3 | Neodym magnet, 2x4mm (Meder NdFeB N35)      |
+|   1 | DC motor                                    |
+|   1 | ECU (PCB)                                   |
 
 How to Build
 ------------
