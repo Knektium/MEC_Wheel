@@ -1,6 +1,11 @@
 
 ![Wheel](wheel.png)
 
+The Mechanical Project for the Wolley Speed Reducer Wheel Module
+================================================================
+
+A robot wheel with built in 2-step planetary gearbox and controller.
+
 Parts
 -----
 
@@ -27,17 +32,20 @@ Parts
 1x M3 Hex-standoff 11mm (Ettinger 05.03.111)
 7x M3 Circular Spacer 4mm (Harwin R30-5000402)
 
-3x Neodym magnet, 2x4mm
+3x Neodym magnet, 2x4mm (Meder NdFeB N35)
 1x DC motor
 1x ECU (PCB)
 
-How to Print
+How to Build
 ------------
 
-1. Print all parts in PLA with 0.25 mm layer height.
-2. Sandpaper all parts and make sure they were printed as intended.
-3. Lubricate the internal parts with lithium grease.
-4. Assemble it according to explotion drawing. 
-5. Make sure it is functional by rotating the wheel by hand. If it does not
-   work, more sandpaping or greasing may be neccessary.
-6. Run the motor for a bit to make the gearbox smoother.
+1. Print all parts without cogs in PLA with 0.25 mm layer height and parts
+   with cogs with atleast 0.14 mm layer height.
+2. Sandpaper all parts slightly and make sure they were printed as intended.
+3. Assemble it according to explosion drawing. 
+4. Make sure it is functional by rotating the wheel by hand. If it does not
+   work, more sandpaping or better printing may be neccessary.
+5. Run the motor for a bit to make the gearbox smoother. This could also be
+   done by hand.
+6. Take it apart and lubricate the internal parts with lithium grease.
+7. Assemble it again and use Loctite for preventing the screws from loosening.
