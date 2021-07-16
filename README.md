@@ -4,7 +4,14 @@
 The Mechanical Project for the Wolley Speed Reducer Wheel Module
 ================================================================
 
-A robot wheel with built in 2-step planetary gearbox and controller.
+A robot wheel with built-in 2-stage planetary gearbox and controller.
+
+Specifications
+--------------
+
+| Stage 1 ratio | 9.33 |
+| Stage 2 ratio |  5.5 |
+| Total ratio   | 51.3 |
 
 Parts
 -----
