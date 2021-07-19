@@ -21,7 +21,6 @@ Parts
 | Qty | Part        |
 | --- | ----------- |
 |   1 | Enclosure   |
-|   1 | MotorPlate  |
 |   1 | Back        |
 |   1 | Middle      |
 |   1 | Carrier     |
@@ -36,12 +35,12 @@ Parts
 
 | Qty | Part                                        |
 | --- | ------------------------------------------- |
-|   4 | M3x9mm                                      |
-|   8 | M3x4mm                                      |
-|   2 | M3x6mm                                      |
-|   2 | M3 Hex-standoff 30mm (Ettinger 05.03.301)   |
+|   4 | M3x14mm                                     |
+|   6 | M3x4mm                                      |
+|   2 | M2.5x6mm                                    |
 |   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)   |
-|   7 | M3 Circular Spacer 4mm (Harwin R30-5000402) |
+|   3 | M3 Circular Spacer 4mm (Harwin R30-5000402) |
+|   4 | M3 Threaded insert                          |
 |   3 | Neodym magnet, 2x4mm (Meder NdFeB N35)      |
 |   1 | DC motor                                    |
 |   1 | ECU (PCB)                                   |
