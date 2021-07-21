@@ -35,7 +35,7 @@ Parts
 
 | Qty | Part                                        |
 | --- | ------------------------------------------- |
-|   4 | M3x14mm                                     |
+|   4 | M3x15mm                                     |
 |   6 | M3x4mm                                      |
 |   2 | M2.5x6mm                                    |
 |   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)   |
