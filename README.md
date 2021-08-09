@@ -1,8 +1,8 @@
 
 ![Wolley Wheel](wolley_wheel.png)
 
-The Mechanical Project for the Wolley Speed Reducer Wheel Module
-================================================================
+The Mechanical Project for the Wolley Wheel Module
+==================================================
 
 A robot wheel with built-in 2-stage planetary gearbox, motor and controller.
 
