@@ -33,17 +33,17 @@ Parts
 
 ### Other Parts
 
-| Qty | Part                                        |
-| --- | ------------------------------------------- |
-|   4 | M3x15mm                                     |
-|   6 | M3x4mm                                      |
-|   2 | M2.5x6mm                                    |
-|   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)   |
-|   3 | M3 Circular Spacer 4mm (Harwin R30-5000402) |
-|   4 | M3 Threaded insert                          |
-|   3 | Neodym magnet, 2x4mm (Meder NdFeB N35)      |
-|   1 | DC motor                                    |
-|   1 | ECU (PCB)                                   |
+| Qty | Part                                                         |
+| --- | ------------------------------------------------------------ |
+|   4 | M3x15mm                                                      |
+|   6 | M3x4mm                                                       |
+|   2 | M2.5x6mm                                                     |
+|   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)                    |
+|   3 | M3 Threaded Circular Spacer 4mm Ø4.76mm (Harwin R30-5000402) |
+|   4 | M3 Threaded Insert                                           |
+|   3 | Neodym Magnet, 2x4mm (Meder NdFeB N35)                       |
+|   1 | DC Motor                                                     |
+|   1 | ECU (PCB)                                                    |
 
 How to Build
 ------------
