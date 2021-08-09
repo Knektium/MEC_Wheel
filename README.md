@@ -4,7 +4,7 @@
 The Mechanical Project for the Wolley Speed Reducer Wheel Module
 ================================================================
 
-A robot wheel with built-in 2-stage planetary gearbox and controller.
+A robot wheel with built-in 2-stage planetary gearbox, motor and controller.
 
 | Specification |      |
 | ------------- | ----:|
@@ -34,15 +34,15 @@ Parts
 
 | Qty | Part                                                         |
 | ---:| ------------------------------------------------------------ |
-|   4 | M3x15mm                                                      |
-|   6 | M3x4mm                                                       |
-|   2 | M2.5x6mm                                                     |
+|   4 | Socket Screw ISO 4762 - M3x15mm                              |
+|   6 | Socket Screw ISO 4762 - M3x4mm                               |
+|   2 | Socket Screw ISO 4762 - M2.5x6mm                             |
 |   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)                    |
 |   3 | M3 Threaded Circular Spacer 4mm Ø4.76mm (Harwin R30-5000402) |
-|   4 | M3 Threaded Insert                                           |
+|   4 | M3 Threaded Insert (Ruthex RX-M3x5.7)                        |
 |   3 | Neodym Magnet, 2x4mm (Meder NdFeB N35)                       |
-|   1 | DC Motor                                                     |
-|   1 | ECU (PCB)                                                    |
+|   1 | DC Motor (ex. Mabuchi RS-385PV-2465)                         |
+|   1 | ECU (Wolley MotorECU)                                        |
 
 How to Build
 ------------
