@@ -1,5 +1,5 @@
 
-![Wheel](wheel.png)
+![Wolley Wheel](wolley_wheel.png)
 
 The Mechanical Project for the Wolley Speed Reducer Wheel Module
 ================================================================
