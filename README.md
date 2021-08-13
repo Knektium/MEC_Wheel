@@ -17,18 +17,21 @@ Parts
 
 ### 3D Printable
 
-| Qty | Part        |
-| ---:| ----------- |
-|   1 | Enclosure   |
-|   1 | Back        |
-|   1 | Middle      |
-|   1 | Carrier     |
-|   3 | PlanetGearA |
-|   3 | PlanetGearB |
-|   1 | RingGearA   |
-|   1 | Wheel       |
-|   1 | SunGearA    |
-|   1 | SunGearB    |
+| Qty | Part        | Material      |
+| ---:| ----------- | ------------- |
+|   1 | Enclosure   | PLA*          |
+|   1 | Back        | PET-G         |
+|   1 | Middle      | PLA*          |
+|   1 | Carrier     | PET-G         |
+|   3 | PlanetGearA | PET-G or PLA* |
+|   3 | PlanetGearB | PET-G or PLA* |
+|   1 | RingGearA   | PET-G or PLA* |
+|   1 | Wheel       | PET-G         |
+|   1 | SunGearA    | PET-G         |
+|   1 | SunGearB    | PET-G or PLA* |
+|   1 | Front       | PLA*          |
+
+_* HTPLA, Tough PLA, PLA+ or PLA with carbon fiber_
 
 ### Other Parts
 
@@ -47,13 +50,17 @@ Parts
 How to Build
 ------------
 
-1. Print all parts without cogs in PLA with 0.25 mm layer height and parts
-   with cogs with atleast 0.14 mm layer height.
-2. Sandpaper all parts slightly and make sure they were printed as intended.
-3. Assemble it according to explosion drawing. 
-4. Make sure it is functional by rotating the wheel by hand. If it does not
+1. Print all parts without cogs with 0.25 mm layer height or thinner.
+2. Print all other parts with 0.20 mm layer height or thinner.
+3. Sandpaper all parts slightly and make sure they were printed as intended.
+   This might not be needed at all for the parts printed in PET-G.
+4. Assemble the motor, _MotorECU_ and _Back_.
+5. Glue _SunGearA_ on the motor shaft using Loctite 648 and the mount tool.
+6. Assemble the rest according to the explosion drawing. 
+7. Make sure it is functional by rotating the wheel by hand. If it does not
    work, more sandpaping or better printing may be neccessary.
-5. Run the motor for a bit to make the gearbox smoother. This could also be
+8. Run the motor for a bit to make the gearbox smoother. This could also be
    done by hand.
-6. Take it apart and lubricate the internal parts with lithium grease.
-7. Assemble it again and use Loctite for preventing the screws from loosening.
+9. Take it apart and lubricate the internal parts slightly with lithium grease.
+10. Assemble it again and use Loctite thread lock for the M3x4mm screws for
+    preventing them from loosening.
