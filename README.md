@@ -64,3 +64,14 @@ How to Build
 9. Take it apart and lubricate the internal parts slightly with lithium grease.
 10. Assemble it again and use Loctite thread lock for the M3x4mm screws for
     preventing them from loosening.
+
+Release Notes
+-------------
+
+Version 1.1:
+ - Improved _Enclosure_ that is circular, covers more and has threaded
+   inserts for easier assembly.
+ - Made adjustments to fit a Mabuchi RS-385PV motor.
+ - Sturdier _Middle_.
+ - Improved the _Tire_ with pattern with better grip.
+ - Better fitting _Carrier_.
