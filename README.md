@@ -17,19 +17,19 @@ Parts
 
 ### 3D Printable
 
-| Qty | Part        | Material      |
-| ---:| ----------- | ------------- |
-|   1 | Enclosure   | PLA*          |
-|   1 | Back        | PET-G         |
-|   1 | Middle      | PLA*          |
-|   1 | Carrier     | PET-G         |
-|   3 | PlanetGearA | PET-G or PLA* |
-|   3 | PlanetGearB | PET-G or PLA* |
-|   1 | RingGearA   | PET-G or PLA* |
-|   1 | Wheel       | PET-G         |
-|   1 | SunGearA    | PET-G         |
-|   1 | SunGearB    | PET-G or PLA* |
-|   1 | Front       | PLA*          |
+| Qty | Part        | Material      | Part Number |
+| ---:| ----------- | ------------- | -----------:|
+|   1 | Enclosure   | PLA*          |      100116 |
+|   1 | Back        | PET-G         |      100117 |
+|   1 | Middle      | PLA*          |      100119 |
+|   1 | Carrier     | PET-G         |      100122 |
+|   3 | PlanetGearA | PET-G or PLA* |      100103 |
+|   3 | PlanetGearB | PET-G or PLA* |      100107 |
+|   1 | RingGearA   | PET-G or PLA* |      100102 |
+|   1 | Wheel       | PET-G         |      100106 |
+|   1 | SunGearA    | PET-G         |      100118 |
+|   1 | SunGearB    | PET-G or PLA* |      100108 |
+|   1 | Front       | PLA*          |      100120 |
 
 _* HTPLA, Tough PLA, PLA+ or PLA with carbon fiber_
 
@@ -41,11 +41,11 @@ _* HTPLA, Tough PLA, PLA+ or PLA with carbon fiber_
 |   6 | Socket Screw ISO 4762 - M3x4mm                               |
 |   2 | Socket Screw ISO 4762 - M2.5x6mm                             |
 |   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)                    |
-|   3 | M3 Threaded Circular Spacer 4mm Ø4.76mm (Harwin R30-5000402) |
+|   3 | M3 Round Threaded Spacer 4mm Ø4.76mm (Harwin R30-5000402)    |
 |   4 | M3 Threaded Insert (Ruthex RX-M3x5.7)                        |
 |   3 | Neodym Magnet, 2x4mm (Meder NdFeB N35)                       |
 |   1 | DC Motor (ex. Mabuchi RS-385PV-2465)                         |
-|   1 | ECU (Wolley MotorECU)                                        |
+|   1 | Wolley MotorECU (100115)                                     |
 
 How to Build
 ------------
