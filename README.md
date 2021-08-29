@@ -1,5 +1,5 @@
 
-![Wolley Wheel](wolley_wheel.png)
+![Wolley Wheel](wolley_wheel.jpg)
 
 The Mechanical Project for the Wolley Wheel Module
 ==================================================
