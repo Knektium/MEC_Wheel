@@ -37,13 +37,13 @@ _* HTPLA, Tough PLA, PLA+ or PLA with carbon fiber_
 
 | Qty | Part                                                         |
 | ---:| ------------------------------------------------------------ |
-|   4 | Socket Screw ISO 4762 - M3x15mm                              |
-|   6 | Socket Screw ISO 4762 - M3x4mm                               |
-|   2 | Socket Screw ISO 4762 - M2.5x6mm                             |
-|   1 | M3 Hex-standoff 11mm (Ettinger 05.03.111)                    |
-|   3 | M3 Round Threaded Spacer 4mm Ø4.76mm (Harwin R30-5000402)    |
-|   4 | M3 Threaded Insert (Ruthex RX-M3x5.7)                        |
-|   3 | Neodym Magnet, 2x4mm (Meder NdFeB N35)                       |
+|   4 | Socket Screw ISO 4762, M3 x 15 mm                            |
+|   6 | Socket Screw ISO 4762, M3 x 4 mm                             |
+|   2 | Socket Screw ISO 4762, M2.5 x 6 mm                           |
+|   1 | Hex Stand-off, M3 x 11 mm (Ettinger 05.03.111)               |
+|   3 | Round Stand-off, M3 x 4 mm, Ø4.76 mm (Harwin R30-5000402)    |
+|   4 | Threaded Insert, M3 (Ruthex RX-M3x5.7)                       |
+|   3 | Neodym Magnet, 2 x 4 mm (ex. Meder NdFeB N35)                |
 |   1 | DC Motor (ex. Mabuchi RS-385PV-2465)                         |
 |   1 | Wolley MotorECU (100115)                                     |
 
