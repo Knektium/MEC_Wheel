@@ -17,19 +17,19 @@ Parts
 
 ### 3D Printable
 
-| Qty | Part        | Material      | Part Number |
-| ---:| ----------- | ------------- | -----------:|
-|   1 | Enclosure   | PLA*          |      100116 |
-|   1 | Back        | PET-G         |      100117 |
-|   1 | Middle      | PLA*          |      100119 |
-|   1 | Carrier     | PET-G         |      100122 |
-|   3 | PlanetGearA | PET-G or PLA* |      100103 |
-|   3 | PlanetGearB | PET-G or PLA* |      100107 |
-|   1 | RingGearA   | PET-G or PLA* |      100102 |
-|   1 | Wheel       | PET-G         |      100106 |
-|   1 | SunGearA    | PET-G         |      100118 |
-|   1 | SunGearB    | PET-G or PLA* |      100108 |
-|   1 | Front       | PLA*          |      100120 |
+| Qty | Part        | Material                      | Part Number |
+| ---:| ----------- | ----------------------------- | -----------:|
+|   1 | Enclosure   | ABS, PET-G or PLA*            |      100116 |
+|   1 | Back        | PET-G                         |      100117 |
+|   1 | Middle      | PAHT-CF15 or PLA*             |      100119 |
+|   1 | Carrier     | PET-G                         |      100122 |
+|   3 | PlanetGearA | PET-G or PLA*                 |      100103 |
+|   3 | PlanetGearB | PET-G or PLA*                 |      100107 |
+|   1 | RingGearA   | PET-G or PLA*                 |      100102 |
+|   1 | Wheel       | PET-G                         |      100106 |
+|   1 | SunGearA    | PET-G                         |      100118 |
+|   1 | SunGearB    | PET-G or PLA*                 |      100108 |
+|   1 | Front       | PAHT-CF15, PET-G, ABS or PLA* |      100120 |
 
 _* HTPLA, Tough PLA, PLA+ or PLA with carbon fiber_
 
@@ -45,7 +45,7 @@ _* HTPLA, Tough PLA, PLA+ or PLA with carbon fiber_
 |   4 | Threaded Insert, M3 (Ruthex RX-M3x5.7)                       |
 |   3 | Neodym Magnet, 2 x 4 mm (ex. Meder NdFeB N35)                |
 |   1 | DC Motor (ex. Mabuchi RS-385PV-2465)                         |
-|   1 | Wolley MotorECU (100115)                                     |
+|   1 | Wolley MotorECU (100135)                                     |
 
 How to Build
 ------------
@@ -67,6 +67,10 @@ How to Build
 
 Release Notes
 -------------
+
+Version 1.2:
+ - Replaced the MotorECU v1.3 with v1.4 (no changes).
+ - Added more verified materials to the READMED file.
 
 Version 1.1:
  - Improved _Enclosure_ that is circular, covers more and has threaded
